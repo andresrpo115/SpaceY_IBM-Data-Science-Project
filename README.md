@@ -162,15 +162,6 @@ SpaceY_IBM-Data-Science-Project
 └── Dashboard with Plotly Dash.docx
 ```
 
----
-
-## Key Findings
-
-- Launch success improved over time.
-- KSC LC-39A achieved the highest success rate.
-- CCAFS SLC-40 recorded the highest number of successful launches.
-- Payload mass influences launch outcomes.
-- Booster version B5 showed the strongest overall performance.
 
 ---
 
