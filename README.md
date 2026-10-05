@@ -1,4 +1,2 @@
-# SpaceY
-Proyecto IBM analitica
-## editing file
-Inicializando 
+# SpaceY_Project
+Data Science Project IBM Certification
