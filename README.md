@@ -95,7 +95,7 @@ Features include:
 Files:
 
 - `spacex-dash-app.py`
-- `Dashboard with Plotly Dash.docx`
+- `Dashboard with Plotly Dash_Screenshots.pdf`
 
 ---
 
@@ -159,7 +159,7 @@ SpaceY_IBM-Data-Science-Project
 ├── lab_jupyter_launch_site_location.ipynb
 ├── SpaceX_Machine_Learning_Prediction.ipynb
 ├── spacex-dash-app.py
-└── Dashboard with Plotly Dash.docx
+└── Dashboard with Plotly Dash_Screenshots.pdf
 ```
 
 
